@@ -1,0 +1,10 @@
+c:\users\wannaphong\documents\countdown\countdown\countdown\bin\Debug\countdown.exe.config
+c:\users\wannaphong\documents\countdown\countdown\countdown\bin\Debug\countdown.exe
+c:\users\wannaphong\documents\countdown\countdown\countdown\bin\Debug\countdown.pdb
+c:\users\wannaphong\documents\countdown\countdown\countdown\obj\Debug\countdown.csprojResolveAssemblyReference.cache
+c:\users\wannaphong\documents\countdown\countdown\countdown\obj\Debug\countdown.Form1.resources
+c:\users\wannaphong\documents\countdown\countdown\countdown\obj\Debug\countdown.Properties.Resources.resources
+c:\users\wannaphong\documents\countdown\countdown\countdown\obj\Debug\countdown.csproj.GenerateResource.Cache
+c:\users\wannaphong\documents\countdown\countdown\countdown\obj\Debug\countdown.csproj.CoreCompileInputs.cache
+c:\users\wannaphong\documents\countdown\countdown\countdown\obj\Debug\countdown.exe
+c:\users\wannaphong\documents\countdown\countdown\countdown\obj\Debug\countdown.pdb
